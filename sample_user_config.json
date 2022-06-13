@@ -3,7 +3,10 @@
         "pid": "0x0781",
         "vid": "0x5583",
         "sn": "1860PDN015343",
-        "mac1": "001132B86554"
+        "mac1": "001132B86554",
+        "SataPortMap": "8",
+        "DiskIdxMap": "0040",
+        "SasIdxMap": "0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
